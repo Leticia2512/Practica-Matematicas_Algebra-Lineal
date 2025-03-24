@@ -12,18 +12,14 @@ Este repositorio contiene la implementación de la **regresión lineal** utiliza
 - **Optimización del modelo:** Mejora del rendimiento mediante el descenso de gradiente.
 - **Aplicación del modelo:** Prueba y evaluación del modelo aplicado al dataset.
 
+Puedes explorar el desarrollo completo de la práctica en este notebook: [Práctica Módulo Matemáticas101_Álgebra Lineal.ipynb](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Algebra-Lineal-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Mo%CC%81dulo%20Matema%CC%81ticas101_A%CC%81lgebra%20Lineal.ipynb).
+
 ---
 
 ## 📊 Dataset
-Para la práctica se utiliza el dataset **Auto MPG**, que contiene información sobre el consumo de combustible y características de varios modelos de coches.  
+Para la práctica se ha utilizado el dataset **Auto MPG**, que contiene información sobre el consumo de combustible y características de varios modelos de coches.  
 
-En este enlace puedes descargarlo: [Auto MPG](https://archive.ics.uci.edu/dataset/9/auto+mpg)  
-
----
-
-## 📈 Desarrollo de la práctica
-Puedes explorar el desarrollo completo de la práctica a través del notebook:  
-[Ver Notebook](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Algebra-Lineal-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Mo%CC%81dulo%20Matema%CC%81ticas101_A%CC%81lgebra%20Lineal.ipynb)  
+Se puede descargar en este enlace: [Auto MPG](https://archive.ics.uci.edu/dataset/9/auto+mpg).  
 
 ---
 
